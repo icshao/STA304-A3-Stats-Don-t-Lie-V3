@@ -33,7 +33,7 @@ We based our weights off of the surveyed data from the survey results collected 
 
 Our model is the following:
 
-$$log(\frac{p}{1-p})= \beta_{0} + \beta_{ethnicity}x_{ethnicity \ i} + \beta_{gender}x_{gender\ i}  + \beta_{education}x_{education \ i}+ \beta_{employment}x_{employment\ i} +  \beta_{age}x_{age\ i}$$
+$$log(\frac{p}{1-p})= \beta_{0} + \beta_{ethnicity}x_{ethnicity \ i}  + \beta_{education}x_{education \ i}+ \beta_{employment}x_{employment\ i} +  \beta_{age}x_{age\ i}$$
 
 $\text{where } i = 1,2,...n\ and\ p\ =\ probability\ of\ a\ Trump\ vote$
 
